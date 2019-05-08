@@ -7,12 +7,12 @@ Software Development
 Assignment 2
 
 Group:
-Jack Chapman
+Jack Chapman - GUI Designer
 Zak Rogers - Programmer
-Thanushikan Packiyanathan 
-Jagjeet Dhuna
-Hamza Mohmend
-Jude Rony
+Thanushikan Packiyanathan - Programmer
+Jagjeet Dhuna - UML
+Hamza Mohmend - Tester
+Jude Rony - UML
 
 Task:
 Create a application following a brief using Python.
