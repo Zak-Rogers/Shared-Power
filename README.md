@@ -8,8 +8,8 @@ Assignment 2
 
 Group:
 Jack Chapman
-Zak Rogers
-Thanushikan Packiyanathan
+Zak Rogers - Programmer
+Thanushikan Packiyanathan 
 Jagjeet Dhuna
 Hamza Mohmend
 Jude Rony
