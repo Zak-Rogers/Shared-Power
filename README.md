@@ -15,7 +15,7 @@ Hamza Mohmend
 Jude Rony
 
 Task:
-Create a application follow a brief using Python.
+Create a application following a brief using Python.
 
 Description:
 Application for hiring and hiring out tools using Tkinter GUI.
