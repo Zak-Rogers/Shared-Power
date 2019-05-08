@@ -1,0 +1,65 @@
+~~~~~
+Invoice Number: 1
+
+Shared Power
+2 Luton Way
+Luton
+LU1 3FR
+
+Date: 01/01/19
+
+Customer Details:
+
+test user
+adwadwa
+adw
+awdwadad
+asdasdas
+07861468833
+
+Username: testUser
+
+
+Tools Hired                                 Cost
+
+Ryobi-R18CS-L40S                              £30
+late fee:                                    £320
+Pickup charge:                                 £0
+
+Ryobi-R18AG-LL40S                             £12
+Pickup charge:                                 £0
+
+Insurance:                                     £5
+
+Sub Total:                                   £362
+Vat:                                        £72.4
+Total:                                     £439.4
+~~~~~
+Invoice Number: 2
+
+Shared Power
+2 Luton Way
+Luton
+LU1 3FR
+
+Date: 01/02/19
+
+Customer Details:
+
+test user
+adwadwa
+adw
+awdwadad
+asdasdas
+07861468833
+
+Username: testUser
+
+
+Tools Hired                                 Cost
+
+Insurance:                                     £5
+
+Sub Total:                                     £0
+Vat:                                        £0.00
+Total:                                      £5.00

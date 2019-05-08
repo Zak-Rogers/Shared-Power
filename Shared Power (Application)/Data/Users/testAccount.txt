@@ -1,0 +1,1 @@
+Username: testAccount#First Name: testAccount#Last Name: testAccount#Email: testAccount#Phone Number: 07861468833#Address Line 1: testAccount#City: testAccount#Postcode: testAccount#Supplier: False#Password: b'\xff\xfec\x00a\x00b\x00b\x00a\x00g\x00e\x00'
